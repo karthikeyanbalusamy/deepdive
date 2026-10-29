@@ -1,0 +1,27 @@
+[project]
+name = "deepdive"
+version = "0.1.0"
+description = "Self-verifying multi-agent research analyst"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.162.0",
+    "langchain>=1.4.7",
+    "langchain-openai>=1.7.3",
+    "langgraph>=1.2.18",
+    "markdown>=3.11.2",
+    "openai>=3.40.0",
+    "pydantic>=2.14.1",
+    "python-dotenv>=1.2.4",
+    "streamlit>=1.66.1",
+    "tavily-python>=0.8.5",
+    "uvicorn[standard]>=0.54.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.2.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["test"]
+pythonpath = ["."]

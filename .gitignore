@@ -1,0 +1,19 @@
+# secrets
+.env
+.env.*
+!.env.example
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# runtime data
+data/
+*.db
+*.db-wal
+*.db-shm
+
+# editor settings
+.vscode/

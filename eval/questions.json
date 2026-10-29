@@ -1,0 +1,15 @@
+[
+  {"id": "ev-risks", "category": "analytical", "question": "What are the main risks of investing in Indian EV battery startups in 2026?"},
+  {"id": "battery-share", "category": "factual", "question": "Which companies lead global EV battery manufacturing by market share, and how large are their shares?"},
+  {"id": "sodium-ion", "category": "analytical", "question": "How commercially mature is sodium-ion battery technology compared with lithium-ion?"},
+  {"id": "pli-acc", "category": "factual", "question": "What is India's PLI scheme for advanced chemistry cell batteries and which companies were awarded capacity?"},
+  {"id": "lithium-price", "category": "factual", "question": "How have lithium carbonate prices changed since 2022 and what drove the changes?"},
+  {"id": "solid-state", "category": "contradictory", "question": "When will solid-state batteries reach mass production in electric vehicles?"},
+  {"id": "eu-ai-act", "category": "factual", "question": "What obligations does the EU AI Act place on providers of general-purpose AI models, and when do they apply?"},
+  {"id": "glp1", "category": "analytical", "question": "What are the known long-term risks and side effects of GLP-1 weight-loss drugs?"},
+  {"id": "remote-work", "category": "contradictory", "question": "Does remote work increase or decrease employee productivity according to recent studies?"},
+  {"id": "small-modular", "category": "analytical", "question": "What are the main obstacles to deploying small modular nuclear reactors?"},
+  {"id": "niche-thin", "category": "thin-evidence", "question": "What is the revenue of battery recycling startups in Tamil Nadu in 2025?"},
+  {"id": "known-fact", "category": "known-answer", "question": "When did the James Webb Space Telescope launch and where is it positioned?",
+   "expected_facts": [["December 25, 2021", "25 December 2021", "Dec 25, 2021", "25 Dec 2021"], "L2"]}
+]
