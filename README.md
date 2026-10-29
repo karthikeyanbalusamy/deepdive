@@ -215,5 +215,5 @@ deepdive/
   api.py      FastAPI endpoints
 ui.py         Streamlit web page
 eval/         test questions, evaluation script, results
-test/         tests (fake models, no network) and try_*.py scripts to run one agent at a time
+test/         tests (fake models, no network) and try_*.py scripts to run one agent at a time.
 ```
